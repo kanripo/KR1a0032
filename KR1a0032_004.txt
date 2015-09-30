@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易本義
-#+DATE: 2015-09-23 09:34:25
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:54:32.734230
+#+PROPERTY: ID KR1a0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0032_WYG_004-1a>¶
 欽定四庫全書¶
 　周易本義卷四　　　　　　宋　朱子　撰¶
@@ -182,4 +184,3 @@
 　¶
 　¶
 　周易本義卷四¶
-
